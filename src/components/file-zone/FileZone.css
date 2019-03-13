@@ -1,0 +1,19 @@
+#file-zone {
+    flex-grow: 1;
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    align-items: center;
+    background-color:#f1f0f0;
+    
+}
+
+#file {
+    width: 600px;
+    flex-grow: 1;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #e4dede;
+    font-family: sans-serif;
+}
+

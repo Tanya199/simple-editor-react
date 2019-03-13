@@ -1,0 +1,23 @@
+.popup {
+  width: 110px;
+  max-height: 220px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 18%;
+  left: 83%;
+  background-color: #000;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  overflow: scroll;
+  opacity: 0.6;
+}
+
+.synonym {
+  cursor: pointer;
+  color:rgb(243, 136, 4);
+  text-transform: lowercase;
+  margin: 6px 0;
+}
